@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ITC Workshop</string>
+    <string name="title_main">السلام عليكم</string>
+    <string name="title_count">حساب</string>
+    <string name="title_login">Login</string>
+    <string name="title_register">Register</string>
+    <string name="title_home">Home</string>
+    <string name="txt_reset">RESET</string>
+    <string name="txt_count">COUNT</string>
+</resources>
